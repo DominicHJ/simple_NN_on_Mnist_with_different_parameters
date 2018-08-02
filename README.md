@@ -1,6 +1,6 @@
 ﻿# simple_NN_on_Mnist_with_different_parameters
 
-**功能简介**
+## 'Hello World' in deep learning    
 使用TensorFlow，在Mnist数据集上，分别测试使用单个感知器、不同参数的简单神经网络的训练和预测效果，最终至少达到98%准确率  
   
 可调整参数：  
